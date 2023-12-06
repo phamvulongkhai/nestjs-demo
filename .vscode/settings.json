@@ -1,0 +1,7 @@
+{
+  "vsicons.presets.nestjs": true,
+  "files.exclude": {
+    "**/*.spec.ts": true
+  },
+  "prettier.printWidth": 120
+}
